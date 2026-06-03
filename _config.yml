@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Víctor Sánchez Lara"
-  pronouns         : # example: "she/her"  
+  pronouns         :
   bio              : "PHD student specializing in X-ray Phase-Contrast Imaging, Monte Carlo simulations, and deep learning frameworks for medical imaging."
   location         : "Spain""
   location         : "Madrid"
